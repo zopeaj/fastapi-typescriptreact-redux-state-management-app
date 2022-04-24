@@ -1,0 +1,1 @@
+# fastapi-typescriptreact-redux-state-management-app
